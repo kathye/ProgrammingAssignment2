@@ -1,6 +1,6 @@
 ## Set of functions that compute and cache the inverse of a square
 ## invertible matrix. Uses caching to reduce computation costs.
-## First create matrix with makeCacheFunction and find inverse with cacheSolve. 
+## Create matrix with makeCacheMatrix and find inverse with cacheSolve.
 
 ## Function that receives a matrix and caches its inverse
 
